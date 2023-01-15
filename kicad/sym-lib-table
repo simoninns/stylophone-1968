@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name "PUT")(type "KiCad")(uri "${KIPRJMOD}/PUT.kicad_sym")(options "")(descr ""))
+  (lib (name "stylophone_modules")(type "KiCad")(uri "${KIPRJMOD}/stylophone_modules.kicad_sym")(options "")(descr ""))
+  (lib (name "Stylophone")(type "KiCad")(uri "${KIPRJMOD}/Stylophone.kicad_sym")(options "")(descr ""))
+)
