@@ -11,7 +11,7 @@ Included in the project are:
 * Libre-Office spreadsheets demonstrating the maths within the design
 * An OpenSCAD recreation of the Stylophone's case (modified for FFF 3D printing).
 
-For more information about any of the above please see the project Wiki.
+For more information about any of the above please see [the project wiki](https://github.com/simoninns/stylophone-1968/wiki)
 
 ## Author
 This project is created, designed and maintained by Simon Inns.
